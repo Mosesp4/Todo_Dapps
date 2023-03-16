@@ -1,0 +1,1 @@
+export const TodoContractAddress = "0x592632db294994540ebCCc12C22Ba47Edd855034"
