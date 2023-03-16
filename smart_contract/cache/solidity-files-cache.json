@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\USER\\Documents\\Hi-Mark Academy\\PROJECTs\\Task_mgt\\Todo_Dapp\\smart_contract\\contracts\\SafeMath.sol": {
+      "lastModificationDate": 1678659751632,
+      "contentHash": "e6a68bd2e7aefab1a422d6629913316b",
+      "sourceName": "contracts/SafeMath.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SafeMath"
+      ]
+    },
+    "C:\\Users\\USER\\Documents\\Hi-Mark Academy\\PROJECTs\\Task_mgt\\Todo_Dapp\\smart_contract\\contracts\\TodoContract.sol": {
+      "lastModificationDate": 1678661429973,
+      "contentHash": "21e30ea5805937bbf5916d45da060b29",
+      "sourceName": "contracts/TodoContract.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./SafeMath.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "TodoContract"
+      ]
+    }
+  }
+}
