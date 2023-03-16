@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Todo_Dapps
+<<<<<<< HEAD
+Task Management system
+=======
+Todo task management system
+>>>>>>> 03462f45 (initial commit)
+
+### Management Dcumentation
+>>>>>>> 2eee4c65ba3d50e81645545cec842f9a4f446add
