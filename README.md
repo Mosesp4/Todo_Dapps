@@ -28,3 +28,4 @@
 #### To deploy the Dapp to the Ethereum mainnet or testnet, update the hardhat-config.js file with the correct network configuration and run the deploy command.
 
 ## Live project
+### https://task-management-mocha.vercel.app/
